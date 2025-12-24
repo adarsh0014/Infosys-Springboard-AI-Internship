@@ -8,3 +8,10 @@ venv/
 *.mov
 *.avi
 *.mkv
+
+
+# Ignore folders
+vosk-model/
+
+# audio files
+.wav
